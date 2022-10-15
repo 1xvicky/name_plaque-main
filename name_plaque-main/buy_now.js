@@ -10,7 +10,7 @@ const buyNow = () =>{
       alert("Please enter name")
     }
     else if(usrInput.value==="Your Name"){
-      alert("Please enter your custom latters")
+      alert("Please enter your unique letters")
   
     }
     else{
